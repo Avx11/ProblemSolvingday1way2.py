@@ -1,2 +1,2 @@
 # ProblemSolvingday1way2.py
-Solution of Problem Solving day1 way2
+This is going to be an explaintion of Solution of Problem Solving day1 in another way!! 
